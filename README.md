@@ -5,6 +5,8 @@
 
 Such a slider would be great for Shiny, it seems however that [react-slider-kit](https://github.com/M-Izadmehr/react-slider-kit) might not be it.
 
+:warning: This is a work in progress.
+
 ``` r
 # install.packages("remotes")
 remotes::install_github("JohnCoene/reactslider")
